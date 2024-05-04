@@ -7,7 +7,7 @@
         "senha": "123123"
     },
     "idclientes": 4,
-    "idvendas": 8,
+    "idvendas": 14,
     "idcompras": 0,
     "idprodutos": 3,
     "idfornecedores": 2,
@@ -32,10 +32,16 @@
                 0,
                 1,
                 5,
-                6
+                6,
+                8,
+                8,
+                8,
+                8,
+                8,
+                8
             ],
             "idclientes": 2,
-            "debito": 288
+            "debito": 648
         },
         {
             "nome": "Francisco",
@@ -56,7 +62,7 @@
     "produtos": [
         {
             "nome": "Biscoito amori morango",
-            "estoque": 35,
+            "estoque": 5,
             "categoria": "",
             "valorCompra": "10",
             "valorVenda": "12",
@@ -283,6 +289,132 @@
             ],
             "idvendas": 7,
             "data": 1714790800299
+        },
+        {
+            "idclientes": 2,
+            "status": "Aguardando Pagamento",
+            "listavenda": [
+                [
+                    {
+                        "nome": "Biscoito amori morango",
+                        "estoque": 5,
+                        "categoria": "",
+                        "valorCompra": "10",
+                        "valorVenda": "12",
+                        "fornecedor": "",
+                        "medida": "cx",
+                        "idprodutos": 1
+                    },
+                    5
+                ]
+            ],
+            "idvendas": 8,
+            "data": 1714846018493
+        },
+        {
+            "idclientes": 2,
+            "status": "Aguardando Pagamento",
+            "listavenda": [
+                [
+                    {
+                        "nome": "Biscoito amori morango",
+                        "estoque": 5,
+                        "categoria": "",
+                        "valorCompra": "10",
+                        "valorVenda": "12",
+                        "fornecedor": "",
+                        "medida": "cx",
+                        "idprodutos": 1
+                    },
+                    5
+                ]
+            ],
+            "idvendas": 8,
+            "data": 1714846018493
+        },
+        {
+            "idclientes": 2,
+            "status": "Aguardando Pagamento",
+            "listavenda": [
+                [
+                    {
+                        "nome": "Biscoito amori morango",
+                        "estoque": 5,
+                        "categoria": "",
+                        "valorCompra": "10",
+                        "valorVenda": "12",
+                        "fornecedor": "",
+                        "medida": "cx",
+                        "idprodutos": 1
+                    },
+                    5
+                ]
+            ],
+            "idvendas": 8,
+            "data": 1714846018493
+        },
+        {
+            "idclientes": 2,
+            "status": "Aguardando Pagamento",
+            "listavenda": [
+                [
+                    {
+                        "nome": "Biscoito amori morango",
+                        "estoque": 5,
+                        "categoria": "",
+                        "valorCompra": "10",
+                        "valorVenda": "12",
+                        "fornecedor": "",
+                        "medida": "cx",
+                        "idprodutos": 1
+                    },
+                    5
+                ]
+            ],
+            "idvendas": 8,
+            "data": 1714846018493
+        },
+        {
+            "idclientes": 2,
+            "status": "Aguardando Pagamento",
+            "listavenda": [
+                [
+                    {
+                        "nome": "Biscoito amori morango",
+                        "estoque": 5,
+                        "categoria": "",
+                        "valorCompra": "10",
+                        "valorVenda": "12",
+                        "fornecedor": "",
+                        "medida": "cx",
+                        "idprodutos": 1
+                    },
+                    5
+                ]
+            ],
+            "idvendas": 8,
+            "data": 1714846018493
+        },
+        {
+            "idclientes": 2,
+            "status": "Aguardando Pagamento",
+            "listavenda": [
+                [
+                    {
+                        "nome": "Biscoito amori morango",
+                        "estoque": 5,
+                        "categoria": "",
+                        "valorCompra": "10",
+                        "valorVenda": "12",
+                        "fornecedor": "",
+                        "medida": "cx",
+                        "idprodutos": 1
+                    },
+                    5
+                ]
+            ],
+            "idvendas": 8,
+            "data": 1714846018493
         }
     ]
 }
