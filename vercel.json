@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "data_api.js",
+            "src": "./model/data_api.js",
             "use": "@vercel/node"
         }
     ],
     "routes": [
         {
-            "src": "/",
-            "dest": "/login.html"
+            "src": "/(.*)",
+            "dest": "/"
         }
     ]
 }
