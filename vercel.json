@@ -8,8 +8,8 @@
     ],
     "routes": [
         {
-            "src": "/(.*)",
-            "dest": "/"
+            "src": "(.*)",
+            "dest": "model/data_api.js"
         }
     ]
 }
