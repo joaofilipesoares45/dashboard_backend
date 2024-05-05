@@ -9,7 +9,8 @@
   "scripts": {
     "start": "node model/data_api.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node model/data_api.js"
+    "dev": "node model/data_api.js",
+    "vercel-build": "npx migrate deploy"
   },
   "author": "",
   "license": "ISC",
